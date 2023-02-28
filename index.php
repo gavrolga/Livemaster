@@ -1,7 +1,7 @@
 <?php
 // Настройки подключения к БД
 $host = 'localhost';
-$dbname = 'livemaster';
+$dbname = 'test1';
 $user = 'user';
 $pass = '****';
 
