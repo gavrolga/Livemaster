@@ -1,8 +1,8 @@
-CREATE DATABASE  IF NOT EXISTS `livemaster` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_bin */;
-USE `livemaster`;
+CREATE DATABASE  IF NOT EXISTS `test1` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_bin */;
+USE `test1`;
 -- MySQL dump 10.13  Distrib 8.0.22, for Win64 (x86_64)
 --
--- Host: .    Database: livemaster
+-- Host: .    Database: test1
 -- ------------------------------------------------------
 -- Server version	5.7.36
 
